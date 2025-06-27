@@ -9,7 +9,9 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 public class OnlineFoodOrderingApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(OnlineFoodOrderingApplication.class, args);
+
 	}
 
 }
