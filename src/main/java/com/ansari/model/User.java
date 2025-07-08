@@ -29,17 +29,17 @@ public class User {
 
     private USER_ROLE role = USER_ROLE.ROLE_CUSTOMER;
 
-    public USER_ROLE getRole() {
-        return this.role;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public String getPassword() {
-        return password;
-    }
+//    public USER_ROLE getRole() {
+//        return this.role;
+//    }
+//
+//    public String getEmail() {
+//        return email;
+//    }
+//
+//    public String getPassword() {
+//        return password;
+//    }
 
 
     @JsonIgnore
